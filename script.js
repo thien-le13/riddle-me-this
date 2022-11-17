@@ -11,28 +11,28 @@ var questions = [
   {
     question: "1+1",
     answers: [
-      { text: "1", correct: false },
       { text: "2", correct: true },
-      { text: "3", correct: false },
-      { text: "4", correct: false },
+      { text: "99", correct: false },
+      { text: "6", correct: false },
+      { text: "441", correct: false },
     ],
   },
   {
     question: "2+2",
     answers: [
-      { text: "1", correct: false },
+      { text: "0", correct: false },
       { text: "4", correct: true },
-      { text: "3", correct: false },
-      { text: "4", correct: false },
+      { text: "7", correct: false },
+      { text: "34", correct: false },
     ],
   },
   {
     question: "8+8",
     answers: [
-      { text: "1", correct: false },
-      { text: "16", correct: true },
-      { text: "3", correct: false },
+      { text: "hi", correct: false },
+      { text: "899", correct: false },
       { text: "4", correct: false },
+      { text: "16", correct: true },
     ],
   },
 ];
