@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: 1.5px;
+    border-style: solid;
+    padding: 10px;
+}
